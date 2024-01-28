@@ -6,4 +6,8 @@ int main()
     int a=10;
 	cout<<a<<endl;
 	cout<<a<<endl;
+	void fun()
+	{
+		cout<<"this is a function"<<endl;
+	}
 }
