@@ -11,3 +11,7 @@ int main()
 		cout<<"this is a function"<<endl;
 	}
 }
+class naresh
+{
+    int a=10;	
+};
